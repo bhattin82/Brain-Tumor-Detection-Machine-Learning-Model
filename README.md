@@ -4,7 +4,8 @@ In this project, I have created a **machine learning model using TensorFlow** th
 
 Meningioma Tumor:
 
-![m](https://user-images.githubusercontent.com/70234008/156142423-8410dbf5-fe04-43aa-9a10-a02a3839bfa2.jpg)
+![m](https://user-images.githubusercontent.com/70234008/156142891-983d33d6-7d11-41fc-a06c-d83c7696779e.jpg)
+
 
 
 
